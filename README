@@ -1,0 +1,5 @@
+jhcoop.c Displays the uppercase letter 'J' in red, pauses a second then displays the uppercase letter 'C' in white, pauses a second, and exits. 
+INSTRUCTIONS TO COMPILE: 
+gcc -o jhcoop jhcoop.c -lncurses [ENTER]
+./jhcoop [ENTER]
+
